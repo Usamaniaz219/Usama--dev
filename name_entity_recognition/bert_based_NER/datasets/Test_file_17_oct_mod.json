@@ -1,0 +1,170 @@
+{
+    "classes": [
+        "SPACES",
+        "UNIT",
+        "UNIT_TYPE"
+    ],
+    "annotations": [
+        [
+            "All parking illumination levels shall not exceed 1 lumen per square foot at property boundaries.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Off-street loading bays for commercial buildings shall provide 1 bay per 40,000 sq ft of floor area.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Sign illumination may only be 0.5 lumens per square foot nighttime.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "If the ratio of 1 per 1 yields a fraction, round to the nearest whole 15.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "One loading area per 3 employees shall be provided, except when the 8th employee arrives.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "A minimum of 13 shall be required per 15, rounded construction when rounding rounding down would be unreasonable.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "One loading dock per 8 units of measurement shall be required, regardless of what is being measured.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "A minimum of 19 shall be required per 18, rounded approval when rounding use would be unreasonable.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "When a building exceeds 16 square feet, a total of 18 per thousand shall apply unless otherwise calculated.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "If the ratio of 1 per 8 yields a fraction, round to the nearest whole 9.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Street trees shall be planted along internal parking aisles at no less than one tree per 5 parking spaces.",
+            {
+                "entities": [
+                    [
+                        89,
+                        90,
+                        "SPACES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Maximum floor area ratio (FAR) shall be 2.0 in R-3 zones.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Lot area minimum for single family is 5,000 sq ft.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "In a mixed-use building, parking requirements shall be calculated separately for each use and then aggregated; fractional results of 0.5 or greater shall round up to the next whole space.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Fractional parking requirements of less than 0.25 spaces may be omitted; 0.25 to 0.75 count as one space; above 0.75 shall round up.",
+            {
+                "entities": [
+                    [
+                        45,
+                        49,
+                        "SPACES"
+                    ],
+                    [
+                        95,
+                        98,
+                        "SPACES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Shared 1 shall remain exclusive except during shared use hours as defined by unit.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Every new development must provide a number equal to 2 divided by itself, rounded to the nearest 2.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Where fewer than 8 are expected, provide 5 to prevent deficiency.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "For each 14 linear feet of frontage, 15 cubic feet shall be reserved for potential lot.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "For each 20 linear feet of frontage, 10 cubic feet shall be reserved for potential area.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "For facilities providing more than 16 seats, each seat may count as half a 20, rounded to the nearest space.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "A ratio of 1:6 shall apply, provided the numerator is not less than the denominator.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Spaces designated for 1 shall be shared with lot on alternating rounding downs.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Minimum open space shall equal 13 square feet per residential unit.",
+            {
+                "entities": []
+            }
+        ]
+    ]
+}
